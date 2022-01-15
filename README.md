@@ -1,7 +1,6 @@
 # Studbud - Website
 Studbud is the one stop learning webpage for all the content required by an engineering graduate.
 
-Website Link :- www.studbud.ml
 
 ### Features
 - Engineering Study Material of various branches
